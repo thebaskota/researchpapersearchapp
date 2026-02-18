@@ -16,13 +16,22 @@ COLLECTION_NAME = "projects"
 @st.cache_resource
 def load_collection():
     """Load ChromaDB collection (cached for performance)"""
-    embed_fn = SentenceTransformerEmbeddingFunction(model_name="all-MiniLM-L6-v2")
-    client = chromadb.PersistentClient(path=str(PERSIST_DIR))
-    collection = client.get_collection(
-        name=COLLECTION_NAME,
-        embedding_function=embed_fn,
-    )
-    return collection
+    try:
+        if not PERSIST_DIR.exists():
+            st.error(f"ChromaDB directory not found: {PERSIST_DIR}")
+            st.stop()
+        
+        embed_fn = SentenceTransformerEmbeddingFunction(model_name="all-MiniLM-L6-v2")
+        client = chromadb.PersistentClient(path=str(PERSIST_DIR))
+        collection = client.get_collection(
+            name=COLLECTION_NAME,
+            embedding_function=embed_fn,
+        )
+        return collection
+    except Exception as e:
+        st.error(f"Error loading ChromaDB collection: {str(e)}")
+        st.error(f"Please ensure the ChromaDB index exists in {PERSIST_DIR}")
+        st.stop()
 
 def search_papers(query_text: str, top_k: int = 10):
     """Search for similar papers"""
@@ -211,4 +220,10 @@ def main():
         """)
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        st.error(f"Application error: {str(e)}")
+        import traceback
+        st.code(traceback.format_exc())
+
