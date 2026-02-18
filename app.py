@@ -3,7 +3,6 @@
 Streamlit web app for semantic paper search
 """
 import json
-import base64
 import streamlit as st
 import chromadb
 from chromadb.utils.embedding_functions import SentenceTransformerEmbeddingFunction
@@ -44,17 +43,6 @@ def search_papers(query_text: str, top_k: int = 10):
     )
     
     return res
-
-def get_pdf_display_link(pdf_path: str):
-    """Create HTML link to display PDF inline"""
-    try:
-        with open(pdf_path, "rb") as f:
-            pdf_bytes = f.read()
-        base64_pdf = base64.b64encode(pdf_bytes).decode('utf-8')
-        pdf_display = f'<iframe src="data:application/pdf;base64,{base64_pdf}" width="100%" height="600" type="application/pdf"></iframe>'
-        return pdf_display, pdf_bytes
-    except FileNotFoundError:
-        return None, None
 
 def main():
     st.set_page_config(
@@ -156,34 +144,18 @@ def main():
                         with col2:
                             st.metric("Similarity", f"{sim:.1%}")
                         
-                        # PDF viewing options
+                        # PDF download option
                         pdf_path = md.get("path", "")
                         if pdf_path and Path(pdf_path).exists():
-                            col_btn1, col_btn2 = st.columns(2)
-                            
-                            with col_btn1:
-                                # Download button
-                                with open(pdf_path, "rb") as pdf_file:
-                                    st.download_button(
-                                        label="📥 Download PDF",
-                                        data=pdf_file,
-                                        file_name=filename,
-                                        mime="application/pdf",
-                                        key=f"download_{doc_id}"
-                                    )
-                            
-                            with col_btn2:
-                                # View inline button
-                                if st.button("👁️ View PDF", key=f"view_{doc_id}"):
-                                    st.session_state[f"show_pdf_{doc_id}"] = not st.session_state.get(f"show_pdf_{doc_id}", False)
-                            
-                            # Show PDF inline if button clicked
-                            if st.session_state.get(f"show_pdf_{doc_id}", False):
-                                pdf_display, _ = get_pdf_display_link(pdf_path)
-                                if pdf_display:
-                                    st.markdown(pdf_display, unsafe_allow_html=True)
-                                else:
-                                    st.error("Could not load PDF")
+                            with open(pdf_path, "rb") as pdf_file:
+                                st.download_button(
+                                    label="📥 Download PDF",
+                                    data=pdf_file,
+                                    file_name=filename,
+                                    mime="application/pdf",
+                                    key=f"download_{doc_id}",
+                                    use_container_width=True
+                                )
             
             with tab2:
                 st.subheader("Top Experts by Cumulative Similarity")
