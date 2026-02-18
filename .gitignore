@@ -53,8 +53,8 @@ out_2/
 # Test files (optional - uncomment if you don't want to commit test files)
 # test_*.py
 
-# Large PDF files (optional - uncomment if PDFs are too large for GitHub)
-# data/*.pdf
+# Large PDF files - excluded to reduce repo size
+data/*.pdf
 
 # Database files (optional - keep commented to include chroma DB for deployment)
 # out_main/chroma/

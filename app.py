@@ -143,19 +143,6 @@ def main():
                         
                         with col2:
                             st.metric("Similarity", f"{sim:.1%}")
-                        
-                        # PDF download option
-                        pdf_path = md.get("path", "")
-                        if pdf_path and Path(pdf_path).exists():
-                            with open(pdf_path, "rb") as pdf_file:
-                                st.download_button(
-                                    label="📥 Download PDF",
-                                    data=pdf_file,
-                                    file_name=filename,
-                                    mime="application/pdf",
-                                    key=f"download_{doc_id}",
-                                    use_container_width=True
-                                )
             
             with tab2:
                 st.subheader("Top Experts by Cumulative Similarity")

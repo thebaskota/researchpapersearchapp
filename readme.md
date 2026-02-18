@@ -6,8 +6,9 @@ A semantic search system for academic papers that helps find relevant research a
 
 - **Semantic Search**: Find papers by meaning, not just keywords
 - **Expert Ranking**: Identify researchers by cumulative relevance across papers
-- **PDF Viewing**: Download or view papers inline in the browser
 - **Interactive Web UI**: Clean Streamlit interface for easy searching
+
+> **Note:** PDF files are not included in the repository to keep it lightweight. The system works with the pre-extracted metadata and ChromaDB index.
 
 ## 🏗️ Architecture
 
