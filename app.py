@@ -63,6 +63,9 @@ def main():
         layout="wide"
     )
     
+    # Debugging: Show that app started
+    st.sidebar.success("✅ App loaded successfully!")
+    
     st.title("📚 Paper & Expert Finder")
     st.markdown("Semantic search across research papers to find relevant work and expertise")
     
