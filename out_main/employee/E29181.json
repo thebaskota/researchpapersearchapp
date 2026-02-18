@@ -1,0 +1,128 @@
+{
+  "employee_id": "E29181",
+  "name": "Wolmer V. Vasconcelos",
+  "project_count": 1,
+  "top_skills": [
+    {
+      "skill": "analytic deviation",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "associated graded rings",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Commutative Algebra",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Koszul homology",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Rees Algebras",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "equimultiple ideals",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "linkage theory",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Northcott ideals",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Cohen–Macaulay rings",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Linkage Theory",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Rees algebras",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "prime ideals",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Ideal Theory",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "reduction number",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Cohen–Macaulay Rings",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Blowup Algebras",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Gorenstein rings",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Canonical Modules",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "syzygetic ideals",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Prime Ideals",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    }
+  ],
+  "last_updated": "2026-02-18"
+}

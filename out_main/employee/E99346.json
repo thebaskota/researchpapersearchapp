@@ -1,0 +1,80 @@
+{
+  "employee_id": "E99346",
+  "name": "W. Bajguz",
+  "project_count": 1,
+  "top_skills": [
+    {
+      "skill": "Generalized Clifford Algebras",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Generalized Clifford algebras",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "rational parametrization",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Number Theory (Fermat-type structures)",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "k-ubic forms",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "group actions",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "quadratic and hyperbolic forms",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Fermat-type equations",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "orbit structure",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Last Fermat Theorem",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Discrete Dynamical Systems",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Algebraic Combinatorics",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    }
+  ],
+  "last_updated": "2026-02-18"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "abd61cb10e6dc6ddbc13439ab29fa60e13cedfb0",
+  "file": {
+    "path": "data/a_j_roberts.pdf",
+    "filename": "a_j_roberts.pdf",
+    "size_bytes": 196595,
+    "modified_time": "2026-02-18T05:54:32"
+  },
+  "pdf": {
+    "page_count": 19
+  },
+  "slices_info": {
+    "front_pages_default": 2,
+    "front_pages_fallback": 4,
+    "front_chars": 2000
+  },
+  "front": {
+    "title": "An Accurate Lubrication Model of Contaminated Coating Flows",
+    "authors": [
+      "A. J. Roberts",
+      "M.E. Simpson"
+    ],
+    "year": 2001,
+    "abstract": "The levelling of short-wave irregularities on a thin film of fluid is primarily due to the action of surface tension. Surface tension gradients are often created by a number of different factor including evaporation, thermal gradients or deposition of surfactants. Lubrication theory, which ignores inertia terms in favour of viscous terms, produces a system of two nonlinear pde’s for the unsteady flow of a thin viscous Newtonian fluid containing an insoluble surfactant. A complex model, which systematically includes all relevant effects to these pde’s, is developed using centre manifold techniques. The benefits of using these techniques to develop accurate models are in their application. Subtle variations in parameters or assumptions are able to be catered for by including or deleting the relevant terms rather than having to redevelop these models. Computed solutions of both models using the same numerical process are compared. Numerical simulations also demonstrate the long-term stabilisation of corrugations by induced surfactant variations.",
+    "keywords": [
+      "surfactant",
+      "centre manifold",
+      "low-dimensional modelling"
+    ],
+    "categories": [
+      "Numerical Analysis",
+      "Multigrid Methods",
+      "Poisson Equation Solvers",
+      "Partial Differential Equations",
+      "Centre Manifold Theory",
+      "Dynamical Systems",
+      "Thin Film Fluid Mechanics",
+      "Computational Modelling"
+    ],
+    "error": null
+  }
+}

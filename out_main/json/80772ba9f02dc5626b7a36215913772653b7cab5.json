@@ -1,0 +1,41 @@
+{
+  "id": "80772ba9f02dc5626b7a36215913772653b7cab5",
+  "file": {
+    "path": "data/a_j_roberts3.pdf",
+    "filename": "a_j_roberts3.pdf",
+    "size_bytes": 664502,
+    "modified_time": "2026-02-18T05:54:32"
+  },
+  "pdf": {
+    "page_count": 20
+  },
+  "slices_info": {
+    "front_pages_default": 2,
+    "front_pages_fallback": 4,
+    "front_chars": 2000
+  },
+  "front": {
+    "title": "Fast and accurate multigrid solution of Poissons equation using diagonally oriented grids",
+    "authors": [
+      "A. J. Roberts"
+    ],
+    "year": 1999,
+    "abstract": "We solve Poisson’s equation using new multigrid algorithms that converge rapidly. The novel feature of the two- and three-dimensional algorithms is the use of extra diagonal grids in the multigrid hierarchy for richer and more effective communication between levels. Numerical experiments for Poisson’s equation in the unit square and unit cube show that simple versions of the proposed algorithms are up to twice as fast as correspondingly simple multigrid iterations on conventional grid hierarchies.",
+    "keywords": [
+      "multigrid",
+      "Poisson equation",
+      "diagonal grids",
+      "Jacobi iteration",
+      "V-cycle",
+      "elliptic problems"
+    ],
+    "categories": [
+      "Numerical Analysis",
+      "Multigrid Methods",
+      "Poisson Equation Solvers",
+      "Partial Differential Equations",
+      "Computational Modelling"
+    ],
+    "error": null
+  }
+}

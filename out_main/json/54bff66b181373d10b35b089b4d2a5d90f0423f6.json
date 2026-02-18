@@ -1,0 +1,51 @@
+{
+  "id": "54bff66b181373d10b35b089b4d2a5d90f0423f6",
+  "file": {
+    "path": "data/AlbertoCorso5.pdf",
+    "filename": "AlbertoCorso5.pdf",
+    "size_bytes": 140765,
+    "modified_time": "2026-02-18T05:54:32"
+  },
+  "pdf": {
+    "page_count": 18
+  },
+  "slices_info": {
+    "front_pages_default": 2,
+    "front_pages_fallback": 4,
+    "front_chars": 2000
+  },
+  "front": {
+    "title": "The structure of the core of ideals",
+    "authors": [
+      "Alberto Corso",
+      "Claudia Polini",
+      "Bernd Ulrich"
+    ],
+    "year": 2002,
+    "abstract": "The paper studies the core of an ideal, defined as the intersection of all its reductions. In a broad Cohen–Macaulay setting, it proves that the core is a finite intersection of general minimal reductions, identifies it as the contraction of a universal ℓ-generated ideal, and establishes its compatibility with flat extensions. The results rely on multiplicity estimates and techniques from residual intersection theory, and apply to large classes of ideals satisfying Gℓ and residual S2 conditions.",
+    "keywords": [
+      "core of an ideal",
+      "minimal reductions",
+      "Rees algebras",
+      "residual intersections",
+      "Cohen–Macaulay rings",
+      "Gorenstein rings",
+      "analytic spread",
+      "reduction number",
+      "multiplicity theory",
+      "flat extensions",
+      "universal ℓ-generated ideals",
+      "blowup algebras"
+    ],
+    "categories": [
+      "Commutative Algebra",
+      "Rees Algebras",
+      "Cohen–Macaulay Rings",
+      "Ideal Theory",
+      "Blowup Algebras",
+      "Canonical Modules",
+      "Linkage Theory"
+    ],
+    "error": null
+  }
+}

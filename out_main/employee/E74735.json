@@ -1,0 +1,182 @@
+{
+  "employee_id": "E74735",
+  "name": "A. J. Roberts",
+  "project_count": 5,
+  "top_skills": [
+    {
+      "skill": "Partial Differential Equations",
+      "doc_count": 4,
+      "recent_count": 0,
+      "score": 1.61
+    },
+    {
+      "skill": "Dynamical Systems",
+      "doc_count": 4,
+      "recent_count": 0,
+      "score": 1.61
+    },
+    {
+      "skill": "Numerical Analysis",
+      "doc_count": 4,
+      "recent_count": 0,
+      "score": 1.61
+    },
+    {
+      "skill": "Computational Modelling",
+      "doc_count": 4,
+      "recent_count": 0,
+      "score": 1.61
+    },
+    {
+      "skill": "centre manifold",
+      "doc_count": 3,
+      "recent_count": 0,
+      "score": 1.39
+    },
+    {
+      "skill": "Centre Manifold Theory",
+      "doc_count": 3,
+      "recent_count": 0,
+      "score": 1.39
+    },
+    {
+      "skill": "Poisson Equation Solvers",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "Multigrid Methods",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "holistic discretisation",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "finite difference",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "surfactant",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "low-dimensional modelling",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Thin Film Fluid Mechanics",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "advection-diffusion",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "linear PDE",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "numerical consistency",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Burgers' equation",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "initial condition",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "nash equilibrium",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "multiple selves",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "behavioural modelling",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "game theory",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "prisoners' dilemma",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Poisson equation",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "V-cycle",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "elliptic problems",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Jacobi iteration",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "multigrid",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "diagonal grids",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    }
+  ],
+  "last_updated": "2026-02-18"
+}

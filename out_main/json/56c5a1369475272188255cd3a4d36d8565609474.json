@@ -1,0 +1,47 @@
+{
+  "id": "56c5a1369475272188255cd3a4d36d8565609474",
+  "file": {
+    "path": "data/5A_K_Kwasniewski.pdf",
+    "filename": "5A_K_Kwasniewski.pdf",
+    "size_bytes": 193149,
+    "modified_time": "2026-02-18T05:54:32"
+  },
+  "pdf": {
+    "page_count": 15
+  },
+  "slices_info": {
+    "front_pages_default": 2,
+    "front_pages_fallback": 4,
+    "front_chars": 2000
+  },
+  "front": {
+    "title": "On trigonometric-like decompositions of functions with respect to the cyclic group of order n",
+    "authors": [
+      "A. K. Kwasniewski",
+      "B. K. Kwasniewski"
+    ],
+    "year": 2004,
+    "abstract": "The paper develops trigonometric-like decompositions of analytic functions with respect to the cyclic group of order n using cyclic group labeled projection operators. Higher-order hyperbolic and circular functions are constructed as eigenfunctions of scaling operators, and de Moivre-type identities are generalized via circulant matrices. Determinant identities for circulant and alpha-circulant matrices are derived, and extensions to q-deformations and psi-extensions of special polynomial systems are presented, including q-hyperbolic and psi-hyperbolic functions.",
+    "keywords": [
+      "cyclic groups",
+      "projection operators",
+      "higher-order hyperbolic functions",
+      "circulant matrices",
+      "de Moivre formulas",
+      "Laurent series decomposition",
+      "alpha-hyperbolic functions",
+      "q-deformations",
+      "psi-extensions",
+      "special polynomial systems"
+    ],
+    "categories": [
+      "Algebraic Combinatorics",
+      "Generalized Clifford Algebras",
+      "Polynomial Sequences & Recurrence Relations",
+      "q-Calculus / q-Gaussian Structures",
+      "Umbral Calculus",
+      "Discrete Dynamical Systems"
+    ],
+    "error": null
+  }
+}

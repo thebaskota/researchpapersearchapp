@@ -1,0 +1,43 @@
+{
+  "id": "5fc4c9e050f3ad8c787dbf929f646830da75d3e6",
+  "file": {
+    "path": "data/a_g_ramm.pdf2.pdf",
+    "filename": "a_g_ramm.pdf2.pdf",
+    "size_bytes": 104092,
+    "modified_time": "2026-02-18T05:54:32"
+  },
+  "pdf": {
+    "page_count": 6
+  },
+  "slices_info": {
+    "front_pages_default": 2,
+    "front_pages_fallback": 4,
+    "front_chars": 2000
+  },
+  "front": {
+    "title": "Finding Discontinuities of Piecewise-Smooth Functions",
+    "authors": [
+      "Alexander G. Ramm"
+    ],
+    "year": 2005,
+    "abstract": "Formulas for stable differentiation of piecewise-smooth functions from noisy data are developed. The locations and number of discontinuity points, as well as the sizes of jumps across these points, are determined stably without prior knowledge of their positions. Error estimates are provided, and the method extends classical stable differentiation results to piecewise-smooth functions, including detection of discontinuities in derivatives.",
+    "keywords": [
+      "stable differentiation",
+      "noisy data",
+      "piecewise-smooth functions",
+      "discontinuity detection",
+      "jump estimation",
+      "inverse problems",
+      "signal processing"
+    ],
+    "categories": [
+      "Functional Analysis",
+      "Operator Theory",
+      "Partial Differential Equations",
+      "Inverse Problems",
+      "Ill-Posed Problems",
+      "Numerical Analysis"
+    ],
+    "error": null
+  }
+}

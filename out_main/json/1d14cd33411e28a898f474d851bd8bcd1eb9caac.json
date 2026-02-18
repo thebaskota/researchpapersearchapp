@@ -1,0 +1,49 @@
+{
+  "id": "1d14cd33411e28a898f474d851bd8bcd1eb9caac",
+  "file": {
+    "path": "data/AlbertoCorso3.pdf",
+    "filename": "AlbertoCorso3.pdf",
+    "size_bytes": 133394,
+    "modified_time": "2026-02-18T05:54:32"
+  },
+  "pdf": {
+    "page_count": 7
+  },
+  "slices_info": {
+    "front_pages_default": 2,
+    "front_pages_fallback": 4,
+    "front_chars": 2000
+  },
+  "front": {
+    "title": "STRONGLY COHEN–MACAULAY IDEALS OF SMALL SECOND ANALYTIC DEVIATION",
+    "authors": [
+      "Alberto Corso",
+      "Claudia Polini"
+    ],
+    "year": 2002,
+    "abstract": "The paper characterizes strongly Cohen–Macaulay ideals of second analytic deviation one in local Gorenstein rings. It establishes equivalence between strong Cohen–Macaulayness and specific depth conditions on powers of the ideal within the standard range. The work analyzes residual intersections, reductions, Rees algebras, symmetric algebras, and Koszul homology to describe structural properties of such ideals and their blowup algebras.",
+    "keywords": [
+      "strongly Cohen–Macaulay ideals",
+      "second analytic deviation",
+      "analytic spread",
+      "depth conditions",
+      "Koszul homology",
+      "residual intersections",
+      "reductions of ideals",
+      "Rees algebras",
+      "symmetric algebras",
+      "Gorenstein rings",
+      "blowup algebras",
+      "linear type ideals"
+    ],
+    "categories": [
+      "Commutative Algebra",
+      "Cohen–Macaulay Rings",
+      "Ideal Theory",
+      "Rees Algebras",
+      "Blowup Algebras",
+      "Canonical Modules"
+    ],
+    "error": null
+  }
+}

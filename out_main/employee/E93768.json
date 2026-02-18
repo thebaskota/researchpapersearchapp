@@ -1,0 +1,260 @@
+{
+  "employee_id": "E93768",
+  "name": "Amelia Carolina Sparavigna",
+  "project_count": 5,
+  "top_skills": [
+    {
+      "skill": "Image Processing",
+      "doc_count": 4,
+      "recent_count": 0,
+      "score": 1.61
+    },
+    {
+      "skill": "Archaeology",
+      "doc_count": 3,
+      "recent_count": 0,
+      "score": 1.39
+    },
+    {
+      "skill": "Archaeological Image Enhancement",
+      "doc_count": 3,
+      "recent_count": 0,
+      "score": 1.39
+    },
+    {
+      "skill": "Image processing",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "Satellite Image Analysis",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "Non-Photorealistic Rendering",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "Symmetry",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Stamp seals",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Antisymmetry",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Bilateral symmetry",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Rotational symmetry",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Earthworks",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Lake Titicaca",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Geoglyphs",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Geoglyph Analysis",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Satellite imagery",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Ancient dice",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Icosahedron",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Etruscan",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Dodecahedron",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Platonic solids",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "fractional differentiation",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "texture segmentation",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "image restoration",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "discrete fractional derivative",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Edge Detection",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "astronomical image processing",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "fractional gradient",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "faint object detection",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Fractional Calculus",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "edge detection",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Astronomical Image Processing",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "image enhancement",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "digital image processing",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "fractional calculus",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "signal processing",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Impressionist rendering",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Stylized visualization",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Pointillism",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Image-based rendering",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Non-photorealistic rendering",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Applied Visualization",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    }
+  ],
+  "last_updated": "2026-02-18"
+}

@@ -1,0 +1,104 @@
+{
+  "employee_id": "E82379",
+  "name": "B. K. Kwasniewski",
+  "project_count": 1,
+  "top_skills": [
+    {
+      "skill": "Algebraic Combinatorics",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Generalized Clifford Algebras",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "psi-extensions",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "cyclic groups",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Umbral Calculus",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "higher-order hyperbolic functions",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "q-deformations",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "de Moivre formulas",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Discrete Dynamical Systems",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "special polynomial systems",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Laurent series decomposition",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "alpha-hyperbolic functions",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "q-Calculus / q-Gaussian Structures",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "circulant matrices",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "projection operators",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Polynomial Sequences & Recurrence Relations",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    }
+  ],
+  "last_updated": "2026-02-18"
+}

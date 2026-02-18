@@ -1,0 +1,50 @@
+{
+  "id": "236c9d962d5a31d01772af459e80c949dcb737e0",
+  "file": {
+    "path": "data/AlbertoCorso4.pdf",
+    "filename": "AlbertoCorso4.pdf",
+    "size_bytes": 136170,
+    "modified_time": "2026-02-18T05:54:32"
+  },
+  "pdf": {
+    "page_count": 8
+  },
+  "slices_info": {
+    "front_pages_default": 2,
+    "front_pages_fallback": 4,
+    "front_chars": 2000
+  },
+  "front": {
+    "title": "ON RESIDUALLY S2 IDEALS AND PROJECTIVE DIMENSION ONE MODULES",
+    "authors": [
+      "Alberto Corso",
+      "Claudia Polini"
+    ],
+    "year": 2002,
+    "abstract": "The paper establishes cancellation properties for ideals and modules in local Gorenstein rings. It proves faithfulness results for certain modules and derives consequences for reduction numbers, integral closures, and residual intersections of ideals satisfying Gs conditions. The work analyzes residually S2 ideals, reduction theory, Rees algebras, and projective dimension one modules using techniques from linkage theory and blowup algebras.",
+    "keywords": [
+      "residual intersections",
+      "residually S2 ideals",
+      "Gs property",
+      "reductions of ideals",
+      "reduction number",
+      "integral closure",
+      "Rees algebras",
+      "blowup algebras",
+      "cancellation theorems",
+      "projective dimension one modules",
+      "analytic spread",
+      "Gorenstein rings"
+    ],
+    "categories": [
+      "Commutative Algebra",
+      "Ideal Theory",
+      "Rees Algebras",
+      "Blowup Algebras",
+      "Cohen–Macaulay Rings",
+      "Linkage Theory",
+      "Prime Ideals"
+    ],
+    "error": null
+  }
+}

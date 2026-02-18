@@ -1,0 +1,37 @@
+{
+  "id": "ae5a9ee3e1fb3e8463b23c6fdb93a0424fd67e47",
+  "file": {
+    "path": "data/Amelia_Carolina_Sparavigna_5.pdf",
+    "filename": "Amelia_Carolina_Sparavigna_5.pdf",
+    "size_bytes": 465845,
+    "modified_time": "2026-02-18T05:54:32"
+  },
+  "pdf": {
+    "page_count": 5
+  },
+  "slices_info": {
+    "front_pages_default": 2,
+    "front_pages_fallback": 4,
+    "front_chars": 2000
+  },
+  "front": {
+    "title": "An Etruscan Dodecahedron",
+    "authors": [
+      "Amelia Carolina Sparavigna"
+    ],
+    "year": null,
+    "abstract": "The paper discusses the ancient knowledge of Platonic solids through the analysis of an Etruscan stone dodecahedron discovered at Monte Loffa. Drawing from historical sources, including the 1885 report by Stefano De’ Stefani, the study examines the object's archaeological context, inscriptions, and possible function as a die. The work also references a related icosahedron found in Turin and situates the findings within the broader history of mathematical and cultural transmission of polyhedral knowledge in ancient Italy.",
+    "keywords": [
+      "Platonic solids",
+      "Etruscan",
+      "Dodecahedron",
+      "Icosahedron",
+      "Ancient dice",
+      "Archaeology"
+    ],
+    "categories": [
+      "Archaeological Image Enhancement"
+    ],
+    "error": null
+  }
+}

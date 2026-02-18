@@ -1,0 +1,40 @@
+{
+  "id": "7bf5d1caa3f4a0d57fb99368f7a73dc0e80bde26",
+  "file": {
+    "path": "data/Amelia_Carolina_Sparavigna_2.pdf",
+    "filename": "Amelia_Carolina_Sparavigna_2.pdf",
+    "size_bytes": 538060,
+    "modified_time": "2026-02-18T05:54:32"
+  },
+  "pdf": {
+    "page_count": 8
+  },
+  "slices_info": {
+    "front_pages_default": 2,
+    "front_pages_fallback": 4,
+    "front_chars": 2000
+  },
+  "front": {
+    "title": "Non-photorealistic image processing: an Impressionist rendering",
+    "authors": [
+      "Amelia Carolina Sparavigna",
+      "Roberto Marazzato"
+    ],
+    "year": null,
+    "abstract": "The paper proposes image processing methods for non-photorealistic rendering inspired by Impressionist and Pointillist painting techniques. The algorithm randomly selects pixels from the original image and substitutes them with colour spots through an iterative procedure. Both circular and anisotropic rectangular neighbourhoods are explored, along with threshold-based methods, to achieve stylized rendering effects that emphasize selected features and suppress fine details.",
+    "keywords": [
+      "Image processing",
+      "Non-photorealistic rendering",
+      "Impressionist rendering",
+      "Pointillism",
+      "Image-based rendering",
+      "Stylized visualization"
+    ],
+    "categories": [
+      "Image Processing",
+      "Non-Photorealistic Rendering",
+      "Applied Visualization"
+    ],
+    "error": null
+  }
+}

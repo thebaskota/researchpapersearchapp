@@ -1,0 +1,36 @@
+{
+  "id": "495a0d9e18625c467cdaa4f026af6700ea42246b",
+  "file": {
+    "path": "data/a_j_roberts2.pdf",
+    "filename": "a_j_roberts2.pdf",
+    "size_bytes": 86997,
+    "modified_time": "2026-02-18T05:54:32"
+  },
+  "pdf": {
+    "page_count": 8
+  },
+  "slices_info": {
+    "front_pages_default": 2,
+    "front_pages_fallback": 4,
+    "front_chars": 2000
+  },
+  "front": {
+    "title": "The prisoners may be in two minds",
+    "authors": [
+      "A. J. Roberts"
+    ],
+    "year": 2018,
+    "abstract": "Recognise that people have many, possibly conflicting, aspects to their personality. We hypothesise that each separate characteristic of a personality may be treated as an independent player in a non-zero sum many player game. This idea is applied to the two person Prisoners’ Dilemma as an introductory example. We assume each prisoner has a mercenary characteristic as well as an altruistic characteristic, and find that all Nash equilibria of the Prisoners’ Dilemma has each prisoner in an internal conflict between their two characteristics. The hypothesis that people are composed of more than one player may explain some of the anomalies that occur in human experiments exploring game theory.",
+    "keywords": [
+      "multiple selves",
+      "game theory",
+      "prisoners' dilemma",
+      "nash equilibrium",
+      "behavioural modelling"
+    ],
+    "categories": [
+      "Dynamical Systems"
+    ],
+    "error": null
+  }
+}

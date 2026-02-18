@@ -1,0 +1,320 @@
+{
+  "employee_id": "E27973",
+  "name": "A. K. Kwasniewski",
+  "project_count": 5,
+  "top_skills": [
+    {
+      "skill": "Algebraic Combinatorics",
+      "doc_count": 5,
+      "recent_count": 0,
+      "score": 1.79
+    },
+    {
+      "skill": "Discrete Dynamical Systems",
+      "doc_count": 5,
+      "recent_count": 0,
+      "score": 1.79
+    },
+    {
+      "skill": "Umbral Calculus",
+      "doc_count": 4,
+      "recent_count": 0,
+      "score": 1.61
+    },
+    {
+      "skill": "Polynomial Sequences & Recurrence Relations",
+      "doc_count": 4,
+      "recent_count": 0,
+      "score": 1.61
+    },
+    {
+      "skill": "q-Calculus / q-Gaussian Structures",
+      "doc_count": 3,
+      "recent_count": 0,
+      "score": 1.39
+    },
+    {
+      "skill": "Generalized Clifford Algebras",
+      "doc_count": 3,
+      "recent_count": 0,
+      "score": 1.39
+    },
+    {
+      "skill": "duality triads",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "finite operator calculus",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "discrete dynamical systems",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "Duality Triads",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "Number Theory (Fermat-type structures)",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "higher-order hyperbolic functions",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "projection operators",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "orthogonal polynomial systems",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "incidence algebras",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Catalan triangle",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "q-Gaussian coefficients",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Fibonomial coefficients",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "recurrence relations",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "persistent root polynomials",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Generalized Clifford algebras",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "rational parametrization",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "k-ubic forms",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "group actions",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "quadratic and hyperbolic forms",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Fermat-type equations",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "orbit structure",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Last Fermat Theorem",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "higher-order recurrences",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Chebyshev-type polynomials",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "cyclic-symmetric functions of roots",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "matrix recurrences",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Cayley Hamilton theorem",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "iterative dynamical systems",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Lucas-type functions",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "dual recurrence relations",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "triad polynomials",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Hermite polynomials",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Stirling numbers",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "connection constants",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Pascal triangle",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Laguerre polynomials",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "umbral calculus",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Tchebychev polynomials",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "psi-extensions",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "cyclic groups",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "q-deformations",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "de Moivre formulas",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "special polynomial systems",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Laurent series decomposition",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "alpha-hyperbolic functions",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "circulant matrices",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    }
+  ],
+  "last_updated": "2026-02-18"
+}

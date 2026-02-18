@@ -1,0 +1,122 @@
+{
+  "employee_id": "E38871",
+  "name": "Semion Gutman",
+  "project_count": 2,
+  "top_skills": [
+    {
+      "skill": "Partial Differential Equations",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "Operator Theory",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "Numerical Analysis",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "Scattering Theory",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "Functional Analysis",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "Ill-Posed Problems",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "periodic structures",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "Inverse Problems",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "Modified Rayleigh Conjecture",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "inverse scattering",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "obstacle scattering",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Stability Index Method",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "global minimization",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Helmholtz equation",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "limiting absorption principle",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "numerical methods",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "resolvent kernel",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "quasiperiodic boundary conditions",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "scattering theory",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    }
+  ],
+  "last_updated": "2026-02-18"
+}

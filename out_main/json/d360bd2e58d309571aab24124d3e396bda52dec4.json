@@ -1,0 +1,43 @@
+{
+  "id": "d360bd2e58d309571aab24124d3e396bda52dec4",
+  "file": {
+    "path": "data/2A_K_Kwasniewski.pdf",
+    "filename": "2A_K_Kwasniewski.pdf",
+    "size_bytes": 66551,
+    "modified_time": "2026-02-18T05:54:32"
+  },
+  "pdf": {
+    "page_count": 4
+  },
+  "slices_info": {
+    "front_pages_default": 2,
+    "front_pages_fallback": 4,
+    "front_chars": 2000
+  },
+  "front": {
+    "title": "Generalized Clifford Algebras and the Last Fermat Theorem",
+    "authors": [
+      "A. K. Kwasniewski",
+      "W. Bajguz"
+    ],
+    "year": 2004,
+    "abstract": "One shows that the Last Fermat Theorem is equivalent to the statement that all rational solutions x^k + y^k = 1 (k ≥ 2) are provided by an orbit of a rationally parametrized subgroup of a group preserving a k-ubic form. This group arises naturally in the framework of generalized Clifford algebras. The paper analyzes the structure of these groups, their action on solution sets, and formulates corresponding higher-dimensional hypotheses.",
+    "keywords": [
+      "Generalized Clifford algebras",
+      "Last Fermat Theorem",
+      "Fermat-type equations",
+      "k-ubic forms",
+      "rational parametrization",
+      "group actions",
+      "orbit structure",
+      "quadratic and hyperbolic forms"
+    ],
+    "categories": [
+      "Generalized Clifford Algebras",
+      "Number Theory (Fermat-type structures)",
+      "Algebraic Combinatorics",
+      "Discrete Dynamical Systems"
+    ],
+    "error": null
+  }
+}

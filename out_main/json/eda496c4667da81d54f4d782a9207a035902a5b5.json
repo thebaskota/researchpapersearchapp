@@ -1,0 +1,51 @@
+{
+  "id": "eda496c4667da81d54f4d782a9207a035902a5b5",
+  "file": {
+    "path": "data/AlbertoCorso1.pdf",
+    "filename": "AlbertoCorso1.pdf",
+    "size_bytes": 158968,
+    "modified_time": "2026-02-18T05:54:32"
+  },
+  "pdf": {
+    "page_count": 15
+  },
+  "slices_info": {
+    "front_pages_default": 2,
+    "front_pages_fallback": 4,
+    "front_chars": 2000
+  },
+  "front": {
+    "title": "Links of prime ideals and their Rees algebras",
+    "authors": [
+      "Alberto Corso",
+      "Claudia Polini"
+    ],
+    "year": 1994,
+    "abstract": "The paper extends previous results on direct links of prime ideals in Gorenstein rings to the setting of arbitrary Cohen–Macaulay rings. It proves that links of prime ideals under suitable conditions are equimultiple with reduction number one, and studies structural properties of their Rees algebras. The canonical module of the Rees algebra is described explicitly, self-linked prime ideals are characterized, and multiplicity estimates are established for these classes of ideals.",
+    "keywords": [
+      "prime ideals",
+      "linkage theory",
+      "Rees algebras",
+      "Cohen–Macaulay rings",
+      "Gorenstein rings",
+      "equimultiple ideals",
+      "reduction number",
+      "canonical modules",
+      "associated graded rings",
+      "multiplicity",
+      "Koszul homology",
+      "analytic deviation"
+    ],
+    "categories": [
+      "Commutative Algebra",
+      "Rees Algebras",
+      "Cohen–Macaulay Rings",
+      "Linkage Theory",
+      "Prime Ideals",
+      "Canonical Modules",
+      "Blowup Algebras",
+      "Ideal Theory"
+    ],
+    "error": null
+  }
+}

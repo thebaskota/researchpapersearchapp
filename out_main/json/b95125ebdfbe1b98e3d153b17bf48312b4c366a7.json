@@ -1,0 +1,44 @@
+{
+  "id": "b95125ebdfbe1b98e3d153b17bf48312b4c366a7",
+  "file": {
+    "path": "data/a_g_ramm.pdf3.pdf",
+    "filename": "a_g_ramm.pdf3.pdf",
+    "size_bytes": 267088,
+    "modified_time": "2026-02-18T05:54:32"
+  },
+  "pdf": {
+    "page_count": 11
+  },
+  "slices_info": {
+    "front_pages_default": 2,
+    "front_pages_fallback": 4,
+    "front_chars": 2000
+  },
+  "front": {
+    "title": "On Deconvolution Problems: Numerical Aspects",
+    "authors": [
+      "Alexander G. Ramm",
+      "Alexandra B. Smirnova"
+    ],
+    "year": 2004,
+    "abstract": "An optimal algorithm is described for solving linear ill-posed deconvolution problems of Volterra type from noisy data. The method is based on decomposing the convolution operator into a product A(I+S), where S is compact and I+S is boundedly invertible, and constructing an optimal regularizer for the non-invertible operator A. Stable numerical differentiation is used as the core regularization step. Numerical experiments demonstrate that the proposed deconvolution method is theoretically optimal and often more accurate than variational regularization with discrepancy principle parameter choice.",
+    "keywords": [
+      "deconvolution",
+      "linear ill-posed problems",
+      "Volterra integral equations",
+      "regularization",
+      "stable numerical differentiation",
+      "optimal regularizer"
+    ],
+    "categories": [
+      "Functional Analysis",
+      "Operator Theory",
+      "Partial Differential Equations",
+      "Inverse Problems",
+      "Ill-Posed Problems",
+      "Numerical Analysis",
+      "Scattering Theory"
+    ],
+    "error": null
+  }
+}

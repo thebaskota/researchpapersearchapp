@@ -1,0 +1,230 @@
+{
+  "employee_id": "E88003",
+  "name": "Alexander G. Ramm",
+  "project_count": 5,
+  "top_skills": [
+    {
+      "skill": "Partial Differential Equations",
+      "doc_count": 5,
+      "recent_count": 0,
+      "score": 1.79
+    },
+    {
+      "skill": "Operator Theory",
+      "doc_count": 5,
+      "recent_count": 0,
+      "score": 1.79
+    },
+    {
+      "skill": "Numerical Analysis",
+      "doc_count": 5,
+      "recent_count": 0,
+      "score": 1.79
+    },
+    {
+      "skill": "Ill-Posed Problems",
+      "doc_count": 5,
+      "recent_count": 0,
+      "score": 1.79
+    },
+    {
+      "skill": "Functional Analysis",
+      "doc_count": 5,
+      "recent_count": 0,
+      "score": 1.79
+    },
+    {
+      "skill": "Inverse Problems",
+      "doc_count": 5,
+      "recent_count": 0,
+      "score": 1.79
+    },
+    {
+      "skill": "Scattering Theory",
+      "doc_count": 3,
+      "recent_count": 0,
+      "score": 1.39
+    },
+    {
+      "skill": "periodic structures",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "Modified Rayleigh Conjecture",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "embedding operators",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Banach spaces",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "compactness",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "norm compatibility",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "functional analysis",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "jump estimation",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "stable differentiation",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "piecewise-smooth functions",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "noisy data",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "discontinuity detection",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "signal processing",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "inverse problems",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "inverse scattering",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "obstacle scattering",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Stability Index Method",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "global minimization",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Helmholtz equation",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "stable numerical differentiation",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "deconvolution",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "optimal regularizer",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Volterra integral equations",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "linear ill-posed problems",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "regularization",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "limiting absorption principle",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "numerical methods",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "resolvent kernel",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "quasiperiodic boundary conditions",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "scattering theory",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    }
+  ],
+  "last_updated": "2026-02-18"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "3f0c3a0b2f329e14efab183004f0987e7c009ef0",
+  "file": {
+    "path": "data/Amelia_Carolina_Sparavigna_4.pdf",
+    "filename": "Amelia_Carolina_Sparavigna_4.pdf",
+    "size_bytes": 646026,
+    "modified_time": "2026-02-18T05:54:32"
+  },
+  "pdf": {
+    "page_count": 11
+  },
+  "slices_info": {
+    "front_pages_default": 2,
+    "front_pages_fallback": 4,
+    "front_chars": 2000
+  },
+  "front": {
+    "title": "Symmetries in Images on Ancient Seals",
+    "authors": [
+      "Amelia Carolina Sparavigna"
+    ],
+    "year": null,
+    "abstract": "The paper analyzes bilateral, rotational, antisymmetric and broken symmetries in images engraved on ancient stamp seals from Neolithic to pre-Columbian cultures. It examines how the geometric shape of seal bases (circular, elliptic, lentoid, rectangular) constrains image symmetry, and discusses examples from Mesopotamian, Egyptian, Indus Valley, Minoan, Mycenaean and pre-Columbian artifacts. The study proposes symmetry analysis as a methodological approach for archaeological interpretation of seal iconography.",
+    "keywords": [
+      "Symmetry",
+      "Rotational symmetry",
+      "Bilateral symmetry",
+      "Antisymmetry",
+      "Stamp seals",
+      "Archaeology"
+    ],
+    "categories": [
+      "Image Processing",
+      "Archaeological Image Enhancement"
+    ],
+    "error": null
+  }
+}

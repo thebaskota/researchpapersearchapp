@@ -1,0 +1,254 @@
+{
+  "employee_id": "E7985",
+  "name": "Claudia Polini",
+  "project_count": 5,
+  "top_skills": [
+    {
+      "skill": "Commutative Algebra",
+      "doc_count": 5,
+      "recent_count": 0,
+      "score": 1.79
+    },
+    {
+      "skill": "Rees Algebras",
+      "doc_count": 5,
+      "recent_count": 0,
+      "score": 1.79
+    },
+    {
+      "skill": "Rees algebras",
+      "doc_count": 5,
+      "recent_count": 0,
+      "score": 1.79
+    },
+    {
+      "skill": "Ideal Theory",
+      "doc_count": 5,
+      "recent_count": 0,
+      "score": 1.79
+    },
+    {
+      "skill": "Cohen–Macaulay Rings",
+      "doc_count": 5,
+      "recent_count": 0,
+      "score": 1.79
+    },
+    {
+      "skill": "Blowup Algebras",
+      "doc_count": 5,
+      "recent_count": 0,
+      "score": 1.79
+    },
+    {
+      "skill": "Gorenstein rings",
+      "doc_count": 5,
+      "recent_count": 0,
+      "score": 1.79
+    },
+    {
+      "skill": "Linkage Theory",
+      "doc_count": 4,
+      "recent_count": 0,
+      "score": 1.61
+    },
+    {
+      "skill": "reduction number",
+      "doc_count": 4,
+      "recent_count": 0,
+      "score": 1.61
+    },
+    {
+      "skill": "Canonical Modules",
+      "doc_count": 4,
+      "recent_count": 0,
+      "score": 1.61
+    },
+    {
+      "skill": "residual intersections",
+      "doc_count": 3,
+      "recent_count": 0,
+      "score": 1.39
+    },
+    {
+      "skill": "blowup algebras",
+      "doc_count": 3,
+      "recent_count": 0,
+      "score": 1.39
+    },
+    {
+      "skill": "Prime Ideals",
+      "doc_count": 3,
+      "recent_count": 0,
+      "score": 1.39
+    },
+    {
+      "skill": "analytic spread",
+      "doc_count": 3,
+      "recent_count": 0,
+      "score": 1.39
+    },
+    {
+      "skill": "Koszul homology",
+      "doc_count": 3,
+      "recent_count": 0,
+      "score": 1.39
+    },
+    {
+      "skill": "Cohen–Macaulay rings",
+      "doc_count": 3,
+      "recent_count": 0,
+      "score": 1.39
+    },
+    {
+      "skill": "reductions of ideals",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "analytic deviation",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "associated graded rings",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "equimultiple ideals",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "linkage theory",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "prime ideals",
+      "doc_count": 2,
+      "recent_count": 0,
+      "score": 1.1
+    },
+    {
+      "skill": "cancellation theorems",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "integral closure",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "residually S2 ideals",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Gs property",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "projective dimension one modules",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "canonical modules",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "multiplicity",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "universal ℓ-generated ideals",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "flat extensions",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "minimal reductions",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "core of an ideal",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "multiplicity theory",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "Northcott ideals",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "syzygetic ideals",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "symmetric algebras",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "second analytic deviation",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "depth conditions",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "strongly Cohen–Macaulay ideals",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    },
+    {
+      "skill": "linear type ideals",
+      "doc_count": 1,
+      "recent_count": 0,
+      "score": 0.69
+    }
+  ],
+  "last_updated": "2026-02-18"
+}

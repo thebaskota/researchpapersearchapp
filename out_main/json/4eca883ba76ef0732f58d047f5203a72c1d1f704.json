@@ -1,0 +1,45 @@
+{
+  "id": "4eca883ba76ef0732f58d047f5203a72c1d1f704",
+  "file": {
+    "path": "data/a_g_ramm.pdf",
+    "filename": "a_g_ramm.pdf",
+    "size_bytes": 317729,
+    "modified_time": "2026-02-18T05:54:32"
+  },
+  "pdf": {
+    "page_count": 37
+  },
+  "slices_info": {
+    "front_pages_default": 2,
+    "front_pages_fallback": 4,
+    "front_chars": 2000
+  },
+  "front": {
+    "title": "Modified Rayleigh Conjecture Method and Its Applications",
+    "authors": [
+      "Alexander G. Ramm",
+      "Semion Gutman"
+    ],
+    "year": 2006,
+    "abstract": "The Rayleigh conjecture concerning convergence of the series representation of the scattered field up to the boundary of an obstacle is widely used in engineering applications but is false for many obstacles. The Modified Rayleigh Conjecture (MRC) provides a rigorous mathematical foundation for obstacle scattering problems. This paper reviews the theoretical basis of the MRC method for two- and three-dimensional obstacle scattering, static problems, and scattering by periodic structures. It presents numerical algorithms based on the MRC and demonstrates that the method is an efficient and viable alternative to boundary integral equation methods. The Stability Index Method for global minimization in direct and inverse scattering problems is also discussed.",
+    "keywords": [
+      "Modified Rayleigh Conjecture",
+      "obstacle scattering",
+      "Helmholtz equation",
+      "periodic structures",
+      "inverse scattering",
+      "Stability Index Method",
+      "global minimization"
+    ],
+    "categories": [
+      "Functional Analysis",
+      "Operator Theory",
+      "Partial Differential Equations",
+      "Scattering Theory",
+      "Inverse Problems",
+      "Ill-Posed Problems",
+      "Numerical Analysis"
+    ],
+    "error": null
+  }
+}

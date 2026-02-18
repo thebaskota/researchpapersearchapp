@@ -1,0 +1,52 @@
+{
+  "id": "3fa7c9260022f6926163877e84567f65b1242a45",
+  "file": {
+    "path": "data/AlbertoCorso2.pdf",
+    "filename": "AlbertoCorso2.pdf",
+    "size_bytes": 108115,
+    "modified_time": "2026-02-18T05:54:32"
+  },
+  "pdf": {
+    "page_count": 8
+  },
+  "slices_info": {
+    "front_pages_default": 2,
+    "front_pages_fallback": 4,
+    "front_chars": 2000
+  },
+  "front": {
+    "title": "Links of Prime Ideals",
+    "authors": [
+      "Alberto Corso",
+      "Claudia Polini",
+      "Wolmer V. Vasconcelos"
+    ],
+    "year": 2002,
+    "abstract": "The paper shows that most direct links of prime ideals in Gorenstein rings are equimultiple ideals with reduction number one. As a consequence, these links yield large families of Cohen–Macaulay Rees algebras. The work analyzes structural properties of linked ideals, reduction theory, and associated graded rings, establishing conditions under which the Rees algebra and graded ring are Cohen–Macaulay.",
+    "keywords": [
+      "prime ideals",
+      "linkage theory",
+      "equimultiple ideals",
+      "reduction number",
+      "Rees algebras",
+      "associated graded rings",
+      "Cohen–Macaulay rings",
+      "Gorenstein rings",
+      "Koszul homology",
+      "Northcott ideals",
+      "syzygetic ideals",
+      "analytic deviation"
+    ],
+    "categories": [
+      "Commutative Algebra",
+      "Linkage Theory",
+      "Rees Algebras",
+      "Cohen–Macaulay Rings",
+      "Prime Ideals",
+      "Ideal Theory",
+      "Blowup Algebras",
+      "Canonical Modules"
+    ],
+    "error": null
+  }
+}
