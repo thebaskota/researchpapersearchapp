@@ -3,6 +3,8 @@
 Streamlit web app for semantic paper search
 """
 import json
+import base64
+import os
 import streamlit as st
 import chromadb
 from chromadb.utils.embedding_functions import SentenceTransformerEmbeddingFunction
@@ -11,6 +13,9 @@ from pathlib import Path
 
 PERSIST_DIR = Path("out_main/chroma")
 COLLECTION_NAME = "projects"
+
+# Detect if running locally or on Streamlit Cloud
+IS_LOCAL = not os.getenv("STREAMLIT_SHARING_MODE") and os.path.exists("data")
 
 @st.cache_resource
 def load_collection():
@@ -44,17 +49,31 @@ def search_papers(query_text: str, top_k: int = 10):
     
     return res
 
+def get_pdf_display_link(pdf_path: str):
+    """Create HTML link to display PDF inline (local only)"""
+    try:
+        with open(pdf_path, "rb") as f:
+            pdf_bytes = f.read()
+        base64_pdf = base64.b64encode(pdf_bytes).decode('utf-8')
+        pdf_display = f'<iframe src="data:application/pdf;base64,{base64_pdf}" width="100%" height="600" type="application/pdf"></iframe>'
+        return pdf_display, pdf_bytes
+    except FileNotFoundError:
+        return None, None
+
 def main():
     st.set_page_config(
-        page_title="Paper Finder",
+        page_title="Skillex",
         page_icon="📚",
         layout="wide"
     )
     
     # Debugging: Show that app started
-    st.sidebar.success("✅ App loaded successfully!")
+    if IS_LOCAL:
+        st.sidebar.success("✅ Running locally with PDF access")
+    else:
+        st.sidebar.info("☁️ Running on Streamlit Cloud")
     
-    st.title("📚 Paper & Expert Finder")
+    st.title("📚 Skillex")
     st.markdown("Semantic search across research papers to find relevant work and expertise")
     
     # Sidebar
@@ -77,7 +96,7 @@ def main():
     
     # Main search area
     query = st.text_input(
-        "🔍 Search for papers or skills:",
+        "🔍 Search Here:",
         value=st.session_state.get("query", ""),
         placeholder="e.g., machine learning, computational geometry, image processing..."
     )
@@ -111,9 +130,33 @@ def main():
                     })
             
             # Display results in tabs
-            tab1, tab2 = st.tabs(["📄 Papers", "👥 Experts"])
+            tab1, tab2 = st.tabs(["👥 Experts", "📄 Papers"])
             
             with tab1:
+                st.subheader("Top Experts by Cumulative Similarity")
+                
+                ranked = sorted(employee_scores.items(), key=lambda x: x[1], reverse=True)
+                
+                for i, (name, score) in enumerate(ranked[:10], start=1):
+                    evidence = employee_evidence[name]
+                    
+                    # Color-code by score
+                    if score > 1.0:
+                        color = "🟢"
+                    elif score > 0.5:
+                        color = "🟡"
+                    else:
+                        color = "🔴"
+                    
+                    with st.expander(f"{color} **{i}. {name}** (score: {score:.3f})", expanded=(i <= 3)):
+                        st.markdown(f"**Total Relevance Score:** {score:.3f}")
+                        st.markdown(f"**Number of Relevant Papers:** {len(evidence)}")
+                        
+                        st.markdown("**Top Papers:**")
+                        for j, ev in enumerate(evidence[:5], 1):
+                            st.markdown(f"{j}. {ev['title']} (sim: {ev['sim']:.3f})")
+            
+            with tab2:
                 st.subheader(f"Top {len(ids)} Similar Papers")
                 
                 for rank, (doc_id, md, dist) in enumerate(zip(ids, metas, dists), start=1):
@@ -143,30 +186,36 @@ def main():
                         
                         with col2:
                             st.metric("Similarity", f"{sim:.1%}")
-            
-            with tab2:
-                st.subheader("Top Experts by Cumulative Similarity")
-                
-                ranked = sorted(employee_scores.items(), key=lambda x: x[1], reverse=True)
-                
-                for i, (name, score) in enumerate(ranked[:10], start=1):
-                    evidence = employee_evidence[name]
-                    
-                    # Color-code by score
-                    if score > 1.0:
-                        color = "🟢"
-                    elif score > 0.5:
-                        color = "🟡"
-                    else:
-                        color = "🔴"
-                    
-                    with st.expander(f"{color} **{i}. {name}** (score: {score:.3f})", expanded=(i <= 3)):
-                        st.markdown(f"**Total Relevance Score:** {score:.3f}")
-                        st.markdown(f"**Number of Relevant Papers:** {len(evidence)}")
                         
-                        st.markdown("**Top Papers:**")
-                        for j, ev in enumerate(evidence[:5], 1):
-                            st.markdown(f"{j}. {ev['title']} (sim: {ev['sim']:.3f})")
+                        # PDF viewing options (local only)
+                        if IS_LOCAL:
+                            pdf_path = md.get("path", "")
+                            if pdf_path and Path(pdf_path).exists():
+                                col_btn1, col_btn2 = st.columns(2)
+                                
+                                with col_btn1:
+                                    # Download button
+                                    with open(pdf_path, "rb") as pdf_file:
+                                        st.download_button(
+                                            label="📥 Download PDF",
+                                            data=pdf_file,
+                                            file_name=filename,
+                                            mime="application/pdf",
+                                            key=f"download_{doc_id}"
+                                        )
+                                
+                                with col_btn2:
+                                    # View inline button
+                                    if st.button("👁️ View PDF", key=f"view_{doc_id}"):
+                                        st.session_state[f"show_pdf_{doc_id}"] = not st.session_state.get(f"show_pdf_{doc_id}", False)
+                                
+                                # Show PDF inline if button clicked
+                                if st.session_state.get(f"show_pdf_{doc_id}", False):
+                                    pdf_display, _ = get_pdf_display_link(pdf_path)
+                                    if pdf_display:
+                                        st.markdown(pdf_display, unsafe_allow_html=True)
+                                    else:
+                                        st.error("Could not load PDF")
     
     else:
         # Welcome screen
